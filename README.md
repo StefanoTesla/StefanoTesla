@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanoTesla
 - 👀 I’m interested in tecnologies
-- 🌱 I’m currently learning Vue, C++
+- 🌱 I’m currently learning Vue, C++, PHP and some others
 - 📫 How to reach me: look inside your dreams
 
 <!---
